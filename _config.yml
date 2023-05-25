@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Heon Young Jeong"
-  avatar           : /assets/_images/JHY.jpg
+  avatar           : "/assets/_images/JHY.jpg"
   bio              : "I walk slowly, but I never walk **backwards**."
-  location         : "Republic of Korea, SKKU, Computer Science and Engneering"
+  location         : "Republic of Korea, SKKU, CSE"
   email            :
   links:
     - label: "Email"
