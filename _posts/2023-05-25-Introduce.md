@@ -4,7 +4,8 @@ title: "Introduce"
 ---
 # Introduce about Myself
 
-![myimage](/images/JHY.jpg)
+<img src="/images/JHY.jpg" alt="my images" width="300" height="400">
+
 
 Hello! 
 
