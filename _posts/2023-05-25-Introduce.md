@@ -3,6 +3,9 @@ layout: post
 title: "Introduce"
 ---
 # Introduce about Myself
+
+![myimage](/images/JHY.jpg)
+
 Hello! 
 
 I am Heon Young Jeong. 
